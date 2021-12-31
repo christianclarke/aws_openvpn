@@ -1,0 +1,3 @@
+environment/.terraform*
+environment/terraform.*
+environment/local.tfvars
